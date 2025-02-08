@@ -8,22 +8,22 @@ There were two files (App.tsx and main.tsx) inside src folder.
 Components folder consisted of eight files: 
 
 
-# Chart.tsx 
-# HistoryTable.tsx 
-# Navbar.tsx 
-# NotesPage.tsx 
-# PatientsByDepartment.tsx 
-# Schedule.tsx 
-# Sidebar.tsx 
-# TestsTable.tsx 
+1) Chart.tsx 
+2) HistoryTable.tsx 
+3) Navbar.tsx 
+4) NotesPage.tsx 
+5) PatientsByDepartment.tsx 
+6) Schedule.tsx 
+7) Sidebar.tsx 
+8) TestsTable.tsx 
 
 Pages folder consisted of four files: 
 
 
-# Dashboard.tsx 
-# Login.tsx 
-# Profile.tsx 
-# Settings.tsx 
+1) Dashboard.tsx 
+2) Login.tsx 
+3) Profile.tsx 
+4) Settings.tsx 
 
 THANK YOU!!
 
